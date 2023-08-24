@@ -1,0 +1,2 @@
+# categories
+path /categories
